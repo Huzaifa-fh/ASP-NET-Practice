@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP NET Practice\\UnitOfWorkDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5136CA16-1941-4110-BC9A-6CABFF541A19}|UnitOfWorkDemo.Services\\UnitOfWorkDemo.Services.csproj|c:\\asp net practice\\unitofworkdemo\\unitofworkdemo.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136CA16-1941-4110-BC9A-6CABFF541A19}|UnitOfWorkDemo.Services\\UnitOfWorkDemo.Services.csproj|solutionrelative:unitofworkdemo.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B0F924-44E6-425B-8419-94E2793AFC6B}|UnitOfWorkDemo.Domain\\UnitOfWorkDemo.Domain.csproj|c:\\asp net practice\\unitofworkdemo\\unitofworkdemo.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B0F924-44E6-425B-8419-94E2793AFC6B}|UnitOfWorkDemo.Domain\\UnitOfWorkDemo.Domain.csproj|solutionrelative:unitofworkdemo.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B0F924-44E6-425B-8419-94E2793AFC6B}|UnitOfWorkDemo.Domain\\UnitOfWorkDemo.Domain.csproj|c:\\asp net practice\\unitofworkdemo\\unitofworkdemo.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B0F924-44E6-425B-8419-94E2793AFC6B}|UnitOfWorkDemo.Domain\\UnitOfWorkDemo.Domain.csproj|solutionrelative:unitofworkdemo.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2E25-0820-4EF4-A22D-0754DC037EED}|UnitOfWorkDemo.DataAccess\\UnitOfWorkDemo.DataAccess.csproj|c:\\asp net practice\\unitofworkdemo\\unitofworkdemo.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2E25-0820-4EF4-A22D-0754DC037EED}|UnitOfWorkDemo.DataAccess\\UnitOfWorkDemo.DataAccess.csproj|solutionrelative:unitofworkdemo.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317C402-F444-4140-BE1F-F1CFBE7F06D0}|UnitOfWorkDemo.API\\UnitOfWorkDemo.API.csproj|c:\\asp net practice\\unitofworkdemo\\unitofworkdemo.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317C402-F444-4140-BE1F-F1CFBE7F06D0}|UnitOfWorkDemo.API\\UnitOfWorkDemo.API.csproj|solutionrelative:unitofworkdemo.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2E25-0820-4EF4-A22D-0754DC037EED}|UnitOfWorkDemo.DataAccess\\UnitOfWorkDemo.DataAccess.csproj|c:\\asp net practice\\unitofworkdemo\\unitofworkdemo.dataaccess\\repositories\\productrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2E25-0820-4EF4-A22D-0754DC037EED}|UnitOfWorkDemo.DataAccess\\UnitOfWorkDemo.DataAccess.csproj|solutionrelative:unitofworkdemo.dataaccess\\repositories\\productrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2E25-0820-4EF4-A22D-0754DC037EED}|UnitOfWorkDemo.DataAccess\\UnitOfWorkDemo.DataAccess.csproj|c:\\asp net practice\\unitofworkdemo\\unitofworkdemo.dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2E25-0820-4EF4-A22D-0754DC037EED}|UnitOfWorkDemo.DataAccess\\UnitOfWorkDemo.DataAccess.csproj|solutionrelative:unitofworkdemo.dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkDemo.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "UnitOfWorkDemo.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:41:59.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkDemo.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "UnitOfWorkDemo.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:18:48.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository .cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.DataAccess\\Repositories\\ProductRepository .cs",
+              "RelativeDocumentMoniker": "UnitOfWorkDemo.DataAccess\\Repositories\\ProductRepository .cs",
+              "ToolTip": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.DataAccess\\Repositories\\ProductRepository .cs",
+              "RelativeToolTip": "UnitOfWorkDemo.DataAccess\\Repositories\\ProductRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:02:23.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkDemo.Services\\ProductService.cs",
+              "ToolTip": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.Services\\ProductService.cs",
+              "RelativeToolTip": "UnitOfWorkDemo.Services\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:55:34.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkDemo.DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UnitOfWorkDemo.DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:54:14.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkDemo.DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "UnitOfWorkDemo.DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:53:44.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "UnitOfWorkDemo.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\ASP NET Practice\\UnitOfWorkDemo\\UnitOfWorkDemo.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "UnitOfWorkDemo.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:53:06.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\bin\Debug\net8.0\UnitOfWorkDemo.Services.deps.json
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\bin\Debug\net8.0\UnitOfWorkDemo.Services.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\bin\Debug\net8.0\UnitOfWorkDemo.Services.pdb
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\bin\Debug\net8.0\UnitOfWorkDemo.Domain.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\bin\Debug\net8.0\UnitOfWorkDemo.Domain.pdb
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\obj\Debug\net8.0\UnitOfWorkDemo.Services.csproj.AssemblyReference.cache
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\obj\Debug\net8.0\UnitOfWorkDemo.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\obj\Debug\net8.0\UnitOfWorkDemo.Services.AssemblyInfoInputs.cache
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\obj\Debug\net8.0\UnitOfWorkDemo.Services.AssemblyInfo.cs
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\obj\Debug\net8.0\UnitOfWorkDemo.Services.csproj.CoreCompileInputs.cache
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\obj\Debug\net8.0\UnitOfWo.70A11CDC.Up2Date
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\obj\Debug\net8.0\UnitOfWorkDemo.Services.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\obj\Debug\net8.0\refint\UnitOfWorkDemo.Services.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\obj\Debug\net8.0\UnitOfWorkDemo.Services.pdb
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Services\obj\Debug\net8.0\ref\UnitOfWorkDemo.Services.dll

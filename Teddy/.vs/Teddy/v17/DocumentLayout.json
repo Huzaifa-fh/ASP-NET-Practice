@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP NET Practice\\Teddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\helpers\\stockqueryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\helpers\\stockqueryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\extensions\\claimsextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\extensions\\claimsextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\models\\porfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\models\\porfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\interfaces\\iportfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\interfaces\\iportfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\models\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\models\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|c:\\asp net practice\\teddy\\api\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755EA15C-4D24-4AB7-A0EF-C5168AC807F9}|api\\api.csproj|solutionrelative:api\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "api.csproj",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\api.csproj",
+              "RelativeDocumentMoniker": "api\\api.csproj",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\api.csproj",
+              "RelativeToolTip": "api\\api.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T11:55:14.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T11:51:58.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockMappers.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Mappers\\StockMappers.cs",
+              "RelativeDocumentMoniker": "api\\Mappers\\StockMappers.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Mappers\\StockMappers.cs",
+              "RelativeToolTip": "api\\Mappers\\StockMappers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:42:14.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:06:53.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PortfolioRepository.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Repository\\PortfolioRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repository\\PortfolioRepository.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Repository\\PortfolioRepository.cs",
+              "RelativeToolTip": "api\\Repository\\PortfolioRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:07:36.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClaimsExtentions.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Extensions\\ClaimsExtentions.cs",
+              "RelativeDocumentMoniker": "api\\Extensions\\ClaimsExtentions.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Extensions\\ClaimsExtentions.cs",
+              "RelativeToolTip": "api\\Extensions\\ClaimsExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:48:08.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAF8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:19:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Mappers\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "api\\Mappers\\CommentMapper.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Mappers\\CommentMapper.cs",
+              "RelativeToolTip": "api\\Mappers\\CommentMapper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:42:04.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Startup.cs",
+              "RelativeDocumentMoniker": "api\\Startup.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Startup.cs",
+              "RelativeToolTip": "api\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:12:51.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "api\\Controllers\\PortfolioController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:33:40.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "api\\Service\\TokenService.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Service\\TokenService.cs",
+              "RelativeToolTip": "api\\Service\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:26:00.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Porfolio.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Models\\Porfolio.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Porfolio.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Models\\Porfolio.cs",
+              "RelativeToolTip": "api\\Models\\Porfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:34:33.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Dtos\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Dtos\\Account\\LoginDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Account\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:08:19.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "api\\Models\\AppUser.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Models\\AppUser.cs",
+              "RelativeToolTip": "api\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:37:39.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "api\\Repository\\CommentRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:34:13.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Controllers\\StockController.cs",
+              "RelativeToolTip": "api\\Controllers\\StockController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwB0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:21:06.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockQueryObject.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Helpers\\StockQueryObject.cs",
+              "RelativeDocumentMoniker": "api\\Helpers\\StockQueryObject.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Helpers\\StockQueryObject.cs",
+              "RelativeToolTip": "api\\Helpers\\StockQueryObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:44:44.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPortfolioRepository.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Interfaces\\IPortfolioRepository.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\IPortfolioRepository.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Interfaces\\IPortfolioRepository.cs",
+              "RelativeToolTip": "api\\Interfaces\\IPortfolioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:06:26.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "api\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:25:31.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "api\\Repository\\StockRepository.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswGQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:26:03.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "api\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:25:33.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "api\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "api\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:58:06.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:52:25.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Comment\\CommentDto.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Comment\\CommentDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:52:23.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Comment.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Models\\Comment.cs",
+              "RelativeToolTip": "api\\Models\\Comment.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:51:29.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Stocks.cs",
+              "DocumentMoniker": "C:\\ASP NET Practice\\Teddy\\api\\Models\\Stocks.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Stocks.cs",
+              "ToolTip": "C:\\ASP NET Practice\\Teddy\\api\\Models\\Stocks.cs",
+              "RelativeToolTip": "api\\Models\\Stocks.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:38:13.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

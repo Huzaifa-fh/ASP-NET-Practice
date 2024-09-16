@@ -1,0 +1,11 @@
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\bin\Debug\net8.0\UnitOfWorkDemo.Domain.deps.json
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\bin\Debug\net8.0\UnitOfWorkDemo.Domain.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\bin\Debug\net8.0\UnitOfWorkDemo.Domain.pdb
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\obj\Debug\net8.0\UnitOfWorkDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\obj\Debug\net8.0\UnitOfWorkDemo.Domain.AssemblyInfoInputs.cache
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\obj\Debug\net8.0\UnitOfWorkDemo.Domain.AssemblyInfo.cs
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\obj\Debug\net8.0\UnitOfWorkDemo.Domain.csproj.CoreCompileInputs.cache
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\obj\Debug\net8.0\UnitOfWorkDemo.Domain.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\obj\Debug\net8.0\refint\UnitOfWorkDemo.Domain.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\obj\Debug\net8.0\UnitOfWorkDemo.Domain.pdb
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.Domain\obj\Debug\net8.0\ref\UnitOfWorkDemo.Domain.dll

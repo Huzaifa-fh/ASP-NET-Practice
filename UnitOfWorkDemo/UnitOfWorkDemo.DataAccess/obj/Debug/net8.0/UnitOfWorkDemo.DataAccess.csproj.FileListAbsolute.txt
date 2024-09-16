@@ -1,0 +1,17 @@
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\bin\Debug\net8.0\UnitOfWorkDemo.DataAccess.deps.json
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\bin\Debug\net8.0\UnitOfWorkDemo.DataAccess.runtimeconfig.json
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\bin\Debug\net8.0\UnitOfWorkDemo.DataAccess.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\bin\Debug\net8.0\UnitOfWorkDemo.DataAccess.pdb
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\bin\Debug\net8.0\UnitOfWorkDemo.Domain.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\bin\Debug\net8.0\UnitOfWorkDemo.Domain.pdb
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\UnitOfWorkDemo.DataAccess.csproj.AssemblyReference.cache
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\UnitOfWorkDemo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\UnitOfWorkDemo.DataAccess.AssemblyInfoInputs.cache
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\UnitOfWorkDemo.DataAccess.AssemblyInfo.cs
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\UnitOfWorkDemo.DataAccess.csproj.CoreCompileInputs.cache
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\UnitOfWo.9DCF90CB.Up2Date
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\UnitOfWorkDemo.DataAccess.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\refint\UnitOfWorkDemo.DataAccess.dll
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\UnitOfWorkDemo.DataAccess.pdb
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\UnitOfWorkDemo.DataAccess.genruntimeconfig.cache
+C:\ASP NET Practice\UnitOfWorkDemo\UnitOfWorkDemo.DataAccess\obj\Debug\net8.0\ref\UnitOfWorkDemo.DataAccess.dll

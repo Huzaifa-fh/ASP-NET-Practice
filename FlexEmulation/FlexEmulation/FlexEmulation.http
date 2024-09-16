@@ -1,0 +1,6 @@
+@FlexEmulation_HostAddress = http://localhost:5093
+
+GET {{FlexEmulation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
